@@ -42,4 +42,5 @@ mv *.txt ../ - pārvietot visus txt failus uz līmeņu augstak
 mv fails1.txt fails31.txt - pārsaukt failu
 rm 3.txt - dzēst visus failus, kur ir 3.
 echo $PATH - paradit ceļu.
+ilde - start pyton
 = - piešķiršanas operacija PATH = $PATH:~ - papildinat ceļu git clone https://github.com/Klejm/RTR105 - saglabat uz datora
